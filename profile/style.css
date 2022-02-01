@@ -1,0 +1,22 @@
+img{
+  width: 24%;
+}
+
+body {
+  font-family: Inconsolata, sans-serif;
+  font-weight: 300px;
+  color: rgb(187 14 217);
+}
+.img-circle{
+  border-radius: 10%;
+
+}
+
+
+.container{
+  text-align: center;
+  background: #9e9e9e26;
+  background-color: #eee;}
+body{
+  background: #9e9e9e03;
+}
